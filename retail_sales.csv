@@ -1,0 +1,101 @@
+Date,Product,Category,Price,Quantity Sold,Total Sales
+2025-01-01,Smartphone,Electronics,679,18,12222
+2025-01-01,Noise Cancelling Headphones,Electronics,199,30,5970
+2025-01-01,Air Purifier,Home,249,24,5976
+2025-01-02,Smartwatch,Electronics,274,18,4932
+2025-01-02,Espresso Machine,Home,409,45,18405
+2025-01-02,Running Shoes,Apparel,,50,6450
+2025-01-03,4K TV,Electronics,979,12,11748
+2025-01-03,Laptop,Electronics,1199,18,21582
+2025-01-03,Denim Jacket,Apparel,104,24,2496
+2025-01-04,Blender,Home,129,50,6450
+2025-01-04,Bluetooth Speaker,Electronics,149,45,6705
+2025-01-04,Electric Kettle,Home,69,45,3105
+2025-01-05,Tablet,Electronics,449,,10776
+2025-01-05,Wireless Mouse,Electronics,39,50,1950
+2025-01-05,Leather Wallet,Apparel,59,12,708
+2025-01-06,Air Fryer,Home,189,36,6804
+2025-01-06,Gaming Console,Electronics,499,30,14970
+2025-01-06,Standing Desk,Home,,24,7896
+2025-01-07,Smart Light Kit,Home,69,18,1242
+2025-01-07,Yoga Mat,Apparel,25,36,900
+2025-01-07,Smartphone,Electronics,699,32,22368
+2025-01-08,Noise Cancelling Headphones,Electronics,199,50,9950
+2025-01-08,Air Purifier,Home,274,12,
+2025-01-08,Smartwatch,Electronics,264,40,10560
+2025-01-09,Espresso Machine,Home,429,18,7722
+2025-01-09,Running Shoes,Apparel,144,18,2592
+2025-01-09,4K TV,Electronics,1024,30,30720
+2025-01-10,Laptop,Electronics,1199,50,59950
+2025-01-10,Denim Jacket,Apparel,89,50,4450
+2025-01-10,Blender,Home,129,18,2322
+2025-01-11,Bluetooth Speaker,Electronics,149,24,3576
+2025-01-11,Electric Kettle,Home,69,18,1242
+2025-01-11,Tablet,Electronics,449,18,8082
+2025-01-12,Wireless Mouse,Electronics,,30,1170
+2025-01-12,Leather Wallet,Apparel,59,32,1888
+2025-01-12,Air Fryer,Home,189,32,6048
+2025-01-13,Gaming Console,Electronics,524,24,12576
+2025-01-13,Standing Desk,Home,354,30,10620
+2025-01-13,Smart Light Kit,Home,104,18,1872
+2025-01-14,Yoga Mat,Apparel,60,20,1200
+2025-01-14,Smartphone,Electronics,699,24,16776
+2025-01-14,Noise Cancelling Headphones,Electronics,199,40,7960
+2025-01-15,Air Purifier,Home,274,30,8220
+2025-01-15,Smartwatch,Electronics,249,45,11205
+2025-01-15,Espresso Machine,Home,409,,13088
+2025-01-16,Running Shoes,Apparel,109,24,2616
+2025-01-16,4K TV,Electronics,999,32,31968
+2025-01-16,Laptop,Electronics,1179,30,35370
+2025-01-17,Denim Jacket,Apparel,104,24,
+2025-01-17,Blender,Home,149,32,4768
+2025-01-17,Bluetooth Speaker,Electronics,149,40,5960
+2025-01-18,Electric Kettle,Home,69,40,2760
+2025-01-18,Tablet,Electronics,449,30,13470
+2025-01-18,Wireless Mouse,Electronics,64,24,1536
+2025-01-19,Leather Wallet,Apparel,74,45,3330
+2025-01-19,Air Fryer,Home,214,30,6420
+2025-01-19,Gaming Console,Electronics,499,50,24950
+2025-01-20,Standing Desk,Home,329,50,16450
+2025-01-20,Smart Light Kit,Home,,32,2848
+2025-01-20,Yoga Mat,Apparel,60,20,1200
+2025-01-21,Smartphone,Electronics,679,40,27160
+2025-01-21,Noise Cancelling Headphones,Electronics,179,12,2148
+2025-01-21,Air Purifier,Home,274,20,5480
+2025-01-22,Smartwatch,Electronics,274,20,5480
+2025-01-22,Espresso Machine,Home,444,36,15984
+2025-01-22,Running Shoes,Apparel,129,18,2322
+2025-01-23,4K TV,Electronics,1014,36,36504
+2025-01-23,Laptop,Electronics,1214,,48560
+2025-01-23,Denim Jacket,Apparel,104,30,3120
+2025-01-24,Blender,Home,174,12,2088
+2025-01-24,Bluetooth Speaker,Electronics,174,18,3132
+2025-01-24,Electric Kettle,Home,69,45,3105
+2025-01-25,Tablet,Electronics,,32,13728
+2025-01-25,Wireless Mouse,Electronics,39,30,1170
+2025-01-25,Leather Wallet,Apparel,59,20,1180
+2025-01-26,Air Fryer,Home,214,12,
+2025-01-26,Gaming Console,Electronics,514,30,15420
+2025-01-26,Standing Desk,Home,344,20,6880
+2025-01-27,Smart Light Kit,Home,114,18,2052
+2025-01-27,Yoga Mat,Apparel,70,30,2100
+2025-01-27,Smartphone,Electronics,714,45,32130
+2025-01-28,Noise Cancelling Headphones,Electronics,199,24,4776
+2025-01-28,Air Purifier,Home,249,32,7968
+2025-01-28,Smartwatch,Electronics,264,45,11880
+2025-01-29,Espresso Machine,Home,444,12,5328
+2025-01-29,Running Shoes,Apparel,129,32,4128
+2025-01-29,4K TV,Electronics,979,12,11748
+2025-01-30,Laptop,Electronics,1199,32,38368
+2025-01-30,Denim Jacket,Apparel,69,24,1656
+2025-01-30,Blender,Home,164,24,3936
+2025-01-01,Air Purifier,Home,249,24,5976
+2025-01-06,Air Fryer,Home,189,36,6804
+2025-01-10,Denim Jacket,Apparel,89,50,4450
+2025-01-14,Smartphone,Electronics,699,24,16776
+2025-01-19,Air Fryer,Home,214,30,6420
+2025-02-01,Bluetooth Speaker,Electronics,139,14,1946
+2025-02-02,Electric Kettle,Home,84,38,3192
+2025-02-02,Tablet,Electronics,449,14,6286
+2025-02-02,Wireless Mouse,Electronics,54,19,1026
+2025-02-03,Leather Wallet,Apparel,59,33,1947
